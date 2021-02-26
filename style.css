@@ -1,0 +1,28 @@
+* {
+
+
+}
+body{
+    background-color:"white";
+    border-radius: 50px;
+    border-width: thick;
+}
+
+
+.paragraph{
+    width: 500px;
+    margin-left: 350px;
+    background-color: rgba(228, 48, 41, 0.925);
+    border-radius: 50px;
+    border-width: thick;
+    color: rgb(255, 255, 255);
+}
+.
+
+a:link {
+    color: "red"
+}
+
+a:visited {
+    color: rgba(243, 11, 193, 0.925)
+}
